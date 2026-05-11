@@ -19,3 +19,5 @@ The project was created as an independent conceptual exploration and is not inte
 ## Simulation Comparison
 
 <img width="800" height="500" alt="blackhole comparison" src="https://github.com/user-attachments/assets/dbfb1820-60af-4234-b591-2a6de89c501e" />
+
+Note: This simulation is simplified and does not fully incorporate general relativity or quantum field theory.
